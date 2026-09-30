@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="addWishList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Aluminium.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="batteries.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="changePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clothes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dashBoard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="editProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ElectronicDevices.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forgetPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Glasses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inbox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mixedMetals.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Paper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="plastic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="pointsEx.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrivacyPolicy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="recycleHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="referral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="resetPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="rewards.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="wishList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
