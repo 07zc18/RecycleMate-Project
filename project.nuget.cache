@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uLBc/QmnAHM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Documents\\VB NET PROGRAMMING\\M44100433_WONG ZHENG CHYI\\M44100433_WONG ZHENG CHYI\\M44100433_WONG ZHENG CHYI\\M44100433_WONG ZHENG CHYI.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
