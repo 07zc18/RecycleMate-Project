@@ -1,5 +1,3 @@
-M44100433_WONG ZHENG CHYI – README
-
 VB.NET Windows Forms Application – Recycle Management System
 📌 Overview
 This project is a VB.NET Windows Forms Application built using Visual Studio.
